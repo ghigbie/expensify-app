@@ -18,7 +18,6 @@ module.exports = {
                 'style-loader',
                 'css-loader'
             ]
-        }
-        ]
+        }]
     }
 };
