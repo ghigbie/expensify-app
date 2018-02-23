@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "live-server": "^1.2.0",
     "react": "16.0.0",
     "react-dom": "16.0.0",
     "webpack": "3.1.0"
